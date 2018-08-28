@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/category"
+        android:enabled="true"
+        android:title="Category "
+        android:icon="@drawable/ic_question_answer_black_24dp"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/ranking"
+        android:enabled="true"
+        android:title="Ranking"
+        android:icon="@drawable/ic_stars_black_24dp"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/support"
+        android:enabled="true"
+        android:title="Support"
+        android:icon="@drawable/ic_details_black_24dp"
+        app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "143532078019",
+    "firebase_url": "https://indianquizapp.firebaseio.com",
+    "project_id": "indianquizapp",
+    "storage_bucket": "indianquizapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143532078019:android:2ea8554df7c2dd24",
+        "android_client_info": {
+          "package_name": "com.example.sd.indianquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143532078019-f29sbscu4ohm6v92086p17jk0g7gkidd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sd.indianquizapp",
+            "certificate_hash": "5606e09f18b44b163236edb38f7ee4e25bab5994"
+          }
+        },
+        {
+          "client_id": "143532078019-tem7ugaca6haudn9gbfj3jtmani5ii1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnD-lvhtzKZ6sShYtWwVvpdcxHJ6v-o58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143532078019-tem7ugaca6haudn9gbfj3jtmani5ii1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
